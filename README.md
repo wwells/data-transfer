@@ -1,2 +1,3 @@
 # data-transfer
-notebook templates for moving data
+
+Notebook templates for managing reproduceable pipelines for data transfer.
